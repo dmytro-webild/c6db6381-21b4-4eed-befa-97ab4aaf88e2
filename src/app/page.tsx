@@ -183,28 +183,28 @@ export default function LandingPage() {
             {
               id: 1,
               title: "European Elegance",              description: "From the canals of Venice to the shores of the French Riviera, experience Old World charm.",              phoneOne: {
-                imageSrc: "http://img.b2bpic.net/free-photo/facade-building-with-classical-architecture_23-2148184255.jpg",                imageAlt: "European destination"
+                imageSrc: "http://img.b2bpic.net/free-photo/facade-building-with-classical-architecture_23-2148184255.jpg?_wi=1",                imageAlt: "European destination"
               },
               phoneTwo: {
-                imageSrc: "http://img.b2bpic.net/free-photo/facade-building-with-classical-architecture_23-2148184255.jpg",                imageAlt: "European luxury"
+                imageSrc: "http://img.b2bpic.net/free-photo/facade-building-with-classical-architecture_23-2148184255.jpg?_wi=2",                imageAlt: "European luxury"
               }
             },
             {
               id: 2,
               title: "Asian Paradise",              description: "Discover tropical islands, ancient temples, and modern luxury in Southeast Asia.",              phoneOne: {
-                imageSrc: "http://img.b2bpic.net/free-photo/female-tourists-hold-map-find-places_1150-5814.jpg",                imageAlt: "Asian destination"
+                imageSrc: "http://img.b2bpic.net/free-photo/female-tourists-hold-map-find-places_1150-5814.jpg?_wi=1",                imageAlt: "Asian destination"
               },
               phoneTwo: {
-                imageSrc: "http://img.b2bpic.net/free-photo/female-tourists-hold-map-find-places_1150-5814.jpg",                imageAlt: "Asian luxury"
+                imageSrc: "http://img.b2bpic.net/free-photo/female-tourists-hold-map-find-places_1150-5814.jpg?_wi=2",                imageAlt: "Asian luxury"
               }
             },
             {
               id: 3,
               title: "African Safari",              description: "Experience wildlife like never before in Africa's most exclusive safari reserves.",              phoneOne: {
-                imageSrc: "http://img.b2bpic.net/free-photo/businesswoman-sitting-backseat-taxi_23-2149236713.jpg",                imageAlt: "African destination"
+                imageSrc: "http://img.b2bpic.net/free-photo/businesswoman-sitting-backseat-taxi_23-2149236713.jpg?_wi=1",                imageAlt: "African destination"
               },
               phoneTwo: {
-                imageSrc: "http://img.b2bpic.net/free-photo/businesswoman-sitting-backseat-taxi_23-2149236713.jpg",                imageAlt: "African safari"
+                imageSrc: "http://img.b2bpic.net/free-photo/businesswoman-sitting-backseat-taxi_23-2149236713.jpg?_wi=2",                imageAlt: "African safari"
               }
             }
           ]}
